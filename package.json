@@ -1,0 +1,16 @@
+{
+  "name": "signal.io",
+  "version": "0.0.0",
+  "description": "simple signaling server",
+  "main": "signaling.js",
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node signaling.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
